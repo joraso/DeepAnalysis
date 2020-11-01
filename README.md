@@ -1,7 +1,7 @@
 # DeepAnalysis
 An Implementation of the Boltzmann Generator methodology as developed by Noe et.al. (DOI:10.1126/science.aaw1147)
 
-The method aims to sample complex physical systems with many degrees of freedom by constructing a reverseable deep neural network that learns a mapping between from the coordinate space to an easily sampled, iso-probablistic, prior.
+The method aims to sample complex physical systems with many degrees of freedom by constructing a reverseable deep neural network that learns a mapping from the coordinate space to an easily sampled, iso-probablistic, prior.
 
 Included so far are:
 - Objects and functions for assembling a reverseable DNN.
